@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "prefix": "!",
+    "bot_name": "𝐋𝐎𝐕𝐄-𝐗𝐃",
+    "bot_mode": "private",
+    "language": "en",
+    "antidelete_enabled": false,
+    "autoreact_enabled": false,
+    "menu_image": "https://i.postimg.cc/JnFNPNKk/3c1ace542faf555082f09d1a15c9c4c2.jpg",
+    "welcome_image": "https://i.postimg.cc/Gt3Wx1MW/6e958f635ab08d5f45c0c6573d3eb2de.jpg"
+  },
+  "groups": {},
+  "sudoUsers": ["237675128601","2349052076139"],
+  "premiumUsers": [],
+  "userMedia": {},
+  "userWarnings": {}
+}

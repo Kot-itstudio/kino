@@ -1,0 +1,58 @@
+[
+  {
+    "phoneNumber": "2349052076139",
+    "commandsExecuted": 0,
+    "uptimeHours": 0,
+    "uptimeMinutes": 2,
+    "uptimeSeconds": 34,
+    "uptimeMs": 154690,
+    "lastHeartbeat": 1781865098263,
+    "isActive": false,
+    "version": "2.0.0",
+    "timestamp": "2026-06-19T10:31:38.263Z",
+    "lastCommand": null,
+    "localLogTime": 1781865098264
+  },
+  {
+    "phoneNumber": "2349052076139",
+    "commandsExecuted": 0,
+    "uptimeHours": 0,
+    "uptimeMinutes": 24,
+    "uptimeSeconds": 50,
+    "uptimeMs": 1490588,
+    "lastHeartbeat": 1781866434161,
+    "isActive": false,
+    "version": "2.0.0",
+    "timestamp": "2026-06-19T10:53:54.161Z",
+    "lastCommand": null,
+    "localLogTime": 1781866434163
+  },
+  {
+    "phoneNumber": "2349052076139",
+    "commandsExecuted": 0,
+    "uptimeHours": 0,
+    "uptimeMinutes": 26,
+    "uptimeSeconds": 10,
+    "uptimeMs": 1570348,
+    "lastHeartbeat": 1781866513921,
+    "isActive": false,
+    "version": "2.0.0",
+    "timestamp": "2026-06-19T10:55:13.921Z",
+    "lastCommand": null,
+    "localLogTime": 1781866513923
+  },
+  {
+    "phoneNumber": "2349052076139",
+    "commandsExecuted": 0,
+    "uptimeHours": 0,
+    "uptimeMinutes": 29,
+    "uptimeSeconds": 31,
+    "uptimeMs": 1771287,
+    "lastHeartbeat": 1781866714860,
+    "isActive": false,
+    "version": "2.0.0",
+    "timestamp": "2026-06-19T10:58:34.860Z",
+    "lastCommand": null,
+    "localLogTime": 1781866714862
+  }
+]
